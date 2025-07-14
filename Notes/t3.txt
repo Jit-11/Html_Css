@@ -1,0 +1,18 @@
+<ul></ul> is used for Unordeed list and <ol> is for ordered List 
+and <li> </li> li is common tag used on both ol and ul to add item in it.
+type for ol and ul is used ot choose the type of ordered way for item.
+we can also do list inside list
+
+<table>
+    <thead>
+        <tr>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        </tr>
+    </tbody>
+</table>
+
+the above is basic structure of table in html and we can use <th></th> tag in thead inside tr
+and <td></td> this tag is used in tbody of <tr></tr> tag.
