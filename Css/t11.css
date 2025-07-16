@@ -1,0 +1,16 @@
+/*Element selector*/
+p{
+    color:yellow;
+}
+/*Id selector*/
+#second{
+    color: purple;
+}
+/*Class selector*/
+.third{
+    color: green;
+}
+/*group selector*/
+span,b{
+    color:red;
+}

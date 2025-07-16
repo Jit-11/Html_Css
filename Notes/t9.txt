@@ -1,0 +1,8 @@
+what is css?
+cascading style sheet
+css is used for styling and responsive websiten  
+
+type of css
+inline
+internal
+external

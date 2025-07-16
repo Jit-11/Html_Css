@@ -1,0 +1,4 @@
+in this tutorial we learn how to implement inline,internal and external
+internal<inline<external
+it will take lastest or recent apply properties 
+also used of !important tag

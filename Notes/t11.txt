@@ -1,0 +1,15 @@
+selector in css
+p{
+    color:blue;
+
+}
+
+here p is selcetor (paragraph)
+
+type of selector
+1 css element selector
+2 css id selector
+3 css class selcetor
+4 css grouping selcetor
+
+understand differnece between them and aslo learn where to used

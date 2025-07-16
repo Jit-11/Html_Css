@@ -1,0 +1,8 @@
+font in css
+1 font-family
+also learn how to import ans use font by google
+2 font-size(px)
+3 font height(em)
+
+font weight
+font style
