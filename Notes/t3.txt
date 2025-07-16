@@ -1,6 +1,7 @@
+<table></table> is used to define or declare table.
 <ul></ul> is used for Unordeed list and <ol> is for ordered List 
 and <li> </li> li is common tag used on both ol and ul to add item in it.
-type for ol and ul is used ot choose the type of ordered way for item.
+type="" for ol and ul is used to choose the type of ordered way for item.
 we can also do list inside list
 
 <table>

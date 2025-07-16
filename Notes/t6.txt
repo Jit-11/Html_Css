@@ -1,0 +1,8 @@
+ids and classes
+ids is used to identify and unique
+class is used to collect the element to assign common properties
+we can define mulitple class for single element by just adding space
+emmet take default div
+like
+div.redbG . for class
+div#redBG # used for id

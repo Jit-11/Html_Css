@@ -1,0 +1,5 @@
+paragraph is take full given width of line 
+instead of using paragraph we used span which take only required space of width
+learn difference between paragraph and span 
+
+so span are inline element and paragraph is block element

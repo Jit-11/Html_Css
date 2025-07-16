@@ -5,4 +5,4 @@ also used for internal link among html pages
 
 Image
 <img src=""alt=""> src is used for provide link or path and alt is used for alternate text
-height and Widht is also used for img 
+height and Width is also used for img 

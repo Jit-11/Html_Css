@@ -1,0 +1,19 @@
+<form></form> tag is used to create form in html page/
+inside form ,we can use "action" attribure inside is to collect the data from that form to given value of action and most time it is backend file 
+method is also there like get,post and i hope u know it
+after that inbetween form tag we have many input tag learn those tag which are basic.
+attribute of input tag are "type","name","id"
+type is used to take what type of input u want.
+name is used to refer what name i refer when i access from action given file 
+id is used to identify the tag for more use
+learn more tag of input form
+like textarea but are in different form not like input tag
+learn tag of checkbox and radiobutton
+for both we use to declare same parameter in name attribute
+
+at last without submit button,we can able to submit it.
+so define input type="submit" and value=""
+value is used for button name show in website 
+we also have reset button to remove form data
+
+most imp learn label and select tag and also inportance of selected
