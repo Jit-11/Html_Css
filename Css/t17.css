@@ -1,0 +1,28 @@
+.container{
+    height: 200px;
+    width: 700px;
+    background-color: rgb(128, 185, 185);
+    border:3px solid grey;
+    border-radius: 8px;
+    margin: auto;
+    padding: 10px;
+}
+a:hover{
+    background-color: blue;
+    color: rgb(3, 252, 3);
+}
+a:visited
+{
+    color:rgb(129, 93, 129)
+}
+.contid{
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    background-color: rgb(225, 105, 105);
+    cursor: pointer;
+    border-radius: 5px;
+}
+a{
+    text-decoration: none;
+}

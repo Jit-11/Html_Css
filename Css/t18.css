@@ -1,0 +1,23 @@
+.container{
+    height: 80px ;
+    width: 900px;
+    border-radius: 6px;
+    background-color: rgb(99, 99, 229);
+}
+.container li{
+    list-style: none;
+}
+.container li a{
+    color: black;
+    float: left;
+    list-style: none;
+    padding: 10px;
+    text-decoration: none;
+    margin:15px
+}
+#search{
+    
+}
+div{
+    
+}

@@ -1,0 +1,7 @@
+styling in button and link
+in this we used 
+cursor, text-decoration
+
+also use +hover property
+a:visited when link is visited
+we can add many property in hovering

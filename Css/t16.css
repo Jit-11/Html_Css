@@ -1,0 +1,39 @@
+*{
+    background-color: rgb(202, 233, 233);
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    box-sizing: border-box;
+}
+.container{
+    background-color: rgb(226, 137, 137);
+    height:500px;
+    width: 800px;
+}
+.items{
+    background-color: rgb(147, 216, 159);
+    height: 400px;
+    width: 200px;
+    border: 2px solid grey;
+    margin: 10px 10px;
+    padding: 12px 12px
+}
+#fruit{
+    /* clear: both; */
+    float :left;
+    width:30%
+}
+#computer{
+    /* clear:both; */
+    float :left;
+    width:30%
+}
+#grocery{
+    clear: both;
+    /* float :left; */
+    width:30%
+}
+p,h3{
+    text-align: center;
+}

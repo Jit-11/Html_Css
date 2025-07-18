@@ -1,0 +1,8 @@
+margin auto: it located component at center because it take size form all four side that why.
+
+float and clear
+float mean element should float in left side or right side like float:(left/right) and we need to aslo specified width (%)
+
+clear is used when any component collpase and u want that no component collpase from left rigth or both for clear view like: clear:(left/right/both)
+
+text-align (left/right/center/justify)

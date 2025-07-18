@@ -3,4 +3,4 @@ then we learn about paragraph <p></p>
 then <strong></strong>: this tag is used for Bold 
 breakline <br> ,it does not require closing tag bcz it is self closing tag.
 horizontal line/rule for <hr> self closing tag.
-<em></em>: this tag is used for tomake italic font
+<em></em>: this tag is used for to make italic font

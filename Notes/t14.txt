@@ -1,2 +1,5 @@
 in this tutorial we talk about border and background property
 so try to learn and implement it 
+we have also see background image 
+background-repeat : repeat-x,repeat-y and no-repeat
+background-postion: <horizontal> <vertical> defaault center

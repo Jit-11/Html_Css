@@ -1,0 +1,18 @@
+in this tutorail we are talking about box model in Css
+ mainly padding and Margin
+padding - (left,right,top,bottom)
+margin - (left,right,top,bottom)
+
+padding :top,right,left,bottom
+padding : (top/bottom) (left/right)
+margin :top,right,left,bottom
+margin : (top/bottom) (left/right)
+
+Box sizing property
+when padding and margin are change width and heigh of component change repsect to 
+padding and margin.so to stop it we use box-sizing
+*{
+
+}
+
+above is universal selector
